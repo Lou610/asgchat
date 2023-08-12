@@ -1,0 +1,8 @@
+{
+  "name": "asgchat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "06ea1bd2"
+}
